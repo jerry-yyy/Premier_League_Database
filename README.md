@@ -1,4 +1,4 @@
-# CISC3000_Project_Premier_League_Database
+# Premier_League_Database
 
 <img src="Premier_League_Logo.png" width="185">
 
